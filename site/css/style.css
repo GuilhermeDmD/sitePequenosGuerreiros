@@ -146,8 +146,10 @@
     align-items: center;
     justify-content: center;
     text-align: center;
-    background: rgba(40, 48, 49, 0.8);
     z-index: 1;
+}
+#tituloPequenoGuerreiros{
+    color: #001D23;
 }
 
 .carousel-control-prev,
@@ -194,12 +196,12 @@
 .causes-item .progress {
     height: 5px;
     border-radius: 0;
-    overflow: visible;
+    overflow: none;
 }
 
 .causes-item .progress .progress-bar {
     position: relative;
-    overflow: visible;
+    overflow: none;
     width: 0px;
     border-radius: 0;
     transition: 5s;

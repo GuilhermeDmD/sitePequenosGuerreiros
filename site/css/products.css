@@ -1,0 +1,14 @@
+#boxQuokkinha{
+    display: flex;
+    justify-content: space-around;
+}
+#txtQuokkinha{
+    margin: 10px;
+    white-space: pre-line;
+}
+@media (max-width: 700px) {
+    #boxQuokkinha{
+        display: flex;
+        flex-direction: column;
+    }
+}

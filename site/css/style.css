@@ -245,6 +245,10 @@
 /*** Service ***/
 .service-item {
     box-shadow: 0 0 45px rgba(0, 0, 0, .06);
+    border: 1px solid #ddd; /* Adiciona uma borda */
+    border-radius: 8px; /* Arredonda os cantos */
+    padding: 8px; /* Ajusta o espaço interno */
+    max-width: 290px; /* Tamanho dos retangulos */
 }
 
 

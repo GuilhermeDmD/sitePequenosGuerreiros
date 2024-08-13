@@ -7813,6 +7813,17 @@ textarea.form-control-lg {
     background-color: #fff !important
 }
 
+.image-rounded {
+    border-radius: 50px;
+    max-width: 70%;
+    max-height: 70%;
+}
+
+.image {
+    border: 5px #cc590c ;
+    padding: auto;
+}
+
 .bg-transparent {
     background-color: #0dcaf0(0,0,0,0) !important
 }

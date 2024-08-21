@@ -9,4 +9,4 @@ Projeto universitário desenvolvido pelos estudantes do IFSP para as disciplinas
 </div>
 
 ## Desenvolvedores
-          
+[![Static Badge](https://img.shields.io/badge/GuilhermeDmD-github?style=flat&logo=github&logoColor=white&label=github&labelColor=black&color=white&link=https%3A%2F%2Fgithub.com%2FGuilhermeDmD)](https://github.com/GuilhermeDmD)

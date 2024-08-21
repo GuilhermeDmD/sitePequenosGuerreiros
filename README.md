@@ -9,4 +9,13 @@ Projeto universitário desenvolvido pelos estudantes do IFSP para as disciplinas
 </div>
 
 ## Desenvolvedores
+[![Static Badge](https://img.shields.io/badge/GabrielRamaglia-github?style=flat&logo=github&logoColor=white&label=github&labelColor=black&color=white&link=https%3A%2F%2Fgithub.com%2FGabrielRamaglia)](https://github.com/GabrielRamaglia)
+
 [![Static Badge](https://img.shields.io/badge/GuilhermeDmD-github?style=flat&logo=github&logoColor=white&label=github&labelColor=black&color=white&link=https%3A%2F%2Fgithub.com%2FGuilhermeDmD)](https://github.com/GuilhermeDmD)
+
+[![Static Badge](https://img.shields.io/badge/IanSouza05-github?style=flat&logo=github&logoColor=white&label=github&labelColor=black&color=white&link=https%3A%2F%2Fgithub.com%2FIanSouza05)](https://github.com/IanSouza05)
+
+[![Static Badge](https://img.shields.io/badge/RenanVKoashi-github?style=flat&logo=github&logoColor=white&label=github&labelColor=black&color=white&link=https%3A%2F%2Fgithub.com%2FRenanVKoashi)](https://github.com/RenanVKoashi)
+
+[![Static Badge](https://img.shields.io/badge/VictorOliveira_2-github?style=flat&logo=github&logoColor=white&label=github&labelColor=black&color=white&link=https%3A%2F%2Fgithub.com%2FVictorOliveira-2)](https://github.com/VictorOliveira-2)
+

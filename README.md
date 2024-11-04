@@ -1,5 +1,5 @@
 ## Pequenos Guerreiros
-Projeto universitário desenvolvido pelos estudantes do IFSP para as disciplinas de Extensão e Introdução ao desenvolvimento web, durante o primeiro semestre de Análise e desenvolvimento de sistemas, baseado na ideia de desenvolvimento de um protótipo de site para ONG Pequenos Guerreiros, associação localizada em Uberlândia, Minas Gerais, que acolhe crianças portadoras de doenças raras.
+Projeto universitário desenvolvido pelos estudantes do IFSP para as disciplinas de Extensão e Introdução ao desenvolvimento web, durante o primeiro semestre de Análise e Desenvolvimento de Sistemas. O objetivo fundamentado em sala de aula foi a criação de um protótipo de site para ONG Pequenos Guerreiros, associação localizada em Uberlândia, Minas Gerais, que acolhe crianças portadoras de doenças raras.
 
 ### Linguagens utilizadas
 <div style="display: flex;">
